@@ -1,7 +1,9 @@
 # onboarding
 DevOps Onboarding
 
-¡Bienvenido! Seguramente estás aquí porque te has preguntado cómo iniciarte en el mund DevOps y alguien majete te compartió ete enlace.
+![onboarding-meme](images/onboarding-meme.jpg "DevOps Culture Change")
+
+¡Bienvenido! Seguramente estás aquí porque te has preguntado cómo iniciarte en el mund DevOps y alguien majete te compartió este enlace.
 
 Si vienes del mundo de sistemas/ops:
 
