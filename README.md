@@ -18,3 +18,10 @@ Mantras:
 
 
 Si vienes del mundo del desarrollo: ???
+
+
+### Roadmap
+
+Es muy probable que hayas visto el siguiete diagrama. En caso contrario, es un resumen muy acertado del camino a seguir para adentrarte en el mundo de DevOps. Los colores en amarillo son las tecnologías líderes mientras que las beige, las otras disponibles. Se recomienda dominar de primera mano las amarillas.
+
+![devops-roadmap-2019](https://raw.githubusercontent.com/kamranahmedse/developer-roadmap/master/images/devops.png  "DevOps Roadmap 2019")
